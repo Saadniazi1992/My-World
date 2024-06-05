@@ -1,2 +1,3 @@
 # My-World
-This is my First Git Repository
+This is my first Git Repository
+Author - Saad Hasan Niazi  
